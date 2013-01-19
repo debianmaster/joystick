@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello</string>
+    <string name="app_name">Joystick</string>
+    <string name="app_title">Android Joystick</string>
+     <string name="app_msg">A simple Android Joystick for your desktop game. Visit www.i63.in/joystick</string>
+</resources>
